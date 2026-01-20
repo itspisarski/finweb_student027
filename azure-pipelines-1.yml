@@ -1,5 +1,7 @@
 trigger: none
 
+pool:
+  name: student-lab-pool
 
 variables:
   - name: projectName
